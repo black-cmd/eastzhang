@@ -124,7 +124,7 @@ user-select:none;}
 
 .push{height:105px;width:100%}
 
-.pushi{height:120px}
+.pushi{height:30px}
 
 mask:hover{opacity: 0.3;}
 mask{opacity: 0.05;cursor:default;font-size:80px;display:block;position:absolute;left:50%;bottom:5%;color:#FFF;margin-left:-40px}
