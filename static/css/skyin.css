@@ -115,7 +115,7 @@ nav{background:#BFD1DF;height:36px;width:100%;position:fixed;top:0;z-index:1200;
 -khtml-user-select:none;
 user-select:none;}
 
-.navbu{background:#BFD1DF;height:28px;padding:4px;color:#fff;font-size:18px;float:left;margin-left:1%;}
+.navbu{background:#B1AEF0;height:28px;padding:4px;color:#fff;font-size:18px;float:left;margin-left:1%;}
 .navbu:hover{background:#4f94cd;}
 
 .navbu.ind{margin-left:-10px;margin-right:10px}
@@ -146,7 +146,7 @@ a.nul{text-decoration:none}
 
 hr.er{border-top:1px solid #ddd;width:80%;margin-left:0}
 
-.foote{position:relative;top:20px;margin-left:4%;font-size:13px;line-height:1.2;text-align:center;}
+.foote{position:relative;top:20px;margin-left:F4%;font-size:13px;line-height:1.2;text-align:center;}
 
 span.logo{display:block;text-align:center;position:relative;top:135px;}
 

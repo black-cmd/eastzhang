@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e3b3956-c6d7-4c74-a5de-9955cf41d2fd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base.html" afterPath="$PROJECT_DIR$/templates/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/skyin.css" afterPath="$PROJECT_DIR$/static/css/skyin.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +17,8 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            <state relative-caret-position="171">
+              <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="17" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#HR#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
@@ -27,23 +27,6 @@
                 <element signature="n#style#0;n#p#0;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#HR#0;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="favicon.ico" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/static/favicon.ico">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="robots.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/robots.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -58,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="skyin.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="skyin.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/css/skyin.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1867">
-              <caret line="148" column="46" lean-forward="false" selection-start-line="148" selection-start-column="46" selection-end-line="148" selection-end-column="46" />
+            <state relative-caret-position="184">
+              <caret line="117" column="58" lean-forward="true" selection-start-line="117" selection-start-column="50" selection-end-line="117" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -136,6 +119,11 @@
       <find>arch</find>
       <find>foot</find>
       <find>/article/4</find>
+      <find>logo</find>
+      <find>cvs</find>
+      <find>main</find>
+      <find>navbl</find>
+      <find>nav</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -150,14 +138,14 @@
         <option value="$PROJECT_DIR$/templates/admin.html" />
         <option value="$PROJECT_DIR$/templates/login.html" />
         <option value="$PROJECT_DIR$/run.py" />
-        <option value="$PROJECT_DIR$/static/css/skyin.css" />
         <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/static/css/skyin.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-95" />
-    <option name="y" value="133" />
+    <option name="x" value="-36" />
+    <option name="y" value="92" />
     <option name="width" value="1370" />
     <option name="height" value="772" />
   </component>
@@ -393,7 +381,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-95" y="133" width="1370" height="772" extended-state="1" />
+    <frame x="-36" y="92" width="1370" height="772" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -585,42 +573,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/wish.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/skyin.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1867">
-          <caret line="148" column="46" lean-forward="false" selection-start-line="148" selection-start-column="46" selection-end-line="148" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/run.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3933">
           <caret line="212" column="17" lean-forward="false" selection-start-line="212" selection-start-column="13" selection-end-line="212" selection-end-column="17" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#HR#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#pre#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#HR#0;n#div#2;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#HR#0;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -635,6 +592,37 @@
     <entry file="file://$PROJECT_DIR$/static/favicon.ico">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/wish.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#HR#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#pre#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#HR#0;n#div#2;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#HR#0;n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/skyin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="117" column="58" lean-forward="true" selection-start-line="117" selection-start-column="50" selection-end-line="117" selection-end-column="60" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
