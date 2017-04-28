@@ -115,7 +115,7 @@ nav{background:#BFD1DF;height:36px;width:100%;position:fixed;top:0;z-index:1200;
 -khtml-user-select:none;
 user-select:none;}
 
-.navbu{background:#C0C0C0;height:28px;padding:4px;color:#fff;font-size:18px;float:left;margin-left:1%;}
+.navbu{background:#BFD1DF;height:28px;padding:4px;color:#fff;font-size:18px;float:left;margin-left:1%;}
 .navbu:hover{background:#4f94cd;}
 
 .navbu.ind{margin-left:-10px;margin-right:10px}
