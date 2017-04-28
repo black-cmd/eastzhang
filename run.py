@@ -1,13 +1,14 @@
-#!usr/bin/env python
-# -*-coding:utf-8-*-
-
-import os,sys
-from flask import Flask,render_template,session,redirect,url_for,request,g, flash, send_from_directory
+# -*- coding:utf-8 -*- 
+import os
+from flask import Flask, render_template, session, redirect, url_for, request, g, flash, send_from_directory
+import sys
+import aids
+import psycopg2
+import urlparse
 
 reload(sys)
-sys.setdefaultencoding('utf-8')
-
-app=Flask(__name__)
+sys.setdefaultencoding( "utf-8" )
+app = Flask(__name__)
 urlparse.uses_netloc.append("postgres")
 url = urlparse.urlparse(os.environ["DATABASE_URL"])
 SECRET_KEY = os.environ.get('SECRET_KEY')
