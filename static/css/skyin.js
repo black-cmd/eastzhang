@@ -175,7 +175,7 @@ function siteTime(){
 window.setTimeout("siteTime()", 1000);
 var days = 3600000 * 24
 var today = new Date()
-var t1 = Date.UTC(2017,4,28,18,24,41)
+var t1 = Date.UTC(2017,4,28,00,00,00)
 var t2 = Date.UTC(today.getFullYear(),today.getMonth(),today.getDate(),today.getHours(),today.getMinutes(),today.getSeconds())
 var diff = t2-t1
 var diffDays = Math.floor((diff/days))
