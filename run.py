@@ -40,6 +40,8 @@ def login():
         if aids.check(request.form['passwd']):
             session['log'] = True
             return redirect(url_for('admin'))
+        else:
+            print '我们一起数绵羊吧'
     return render_template('login.html')
 @app.route('/logout')
 def logout():
