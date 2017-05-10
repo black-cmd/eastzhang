@@ -13,12 +13,13 @@ def check(pasword):
     if not pasword:
         pasword = ''
     else:
-        pasword += '20170428'
+        pasword += 'zxd'
     m.update(pasword)
-    if m.hexdigest()=='70c3bcd4e3f35acb9ea5de200939f381':
+    if m.hexdigest()=='128ad81c3d40434e8c6e3d1081cc62ed':
         return True
     else:
         return False
+
 
 def abstra(text):
     sta=0
