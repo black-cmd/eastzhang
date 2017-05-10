@@ -15,7 +15,7 @@ def check(pasword):
     else:
         pasword += '20170428'
     m.update(pasword)
-    if m.hexdigest()=='70C3BCD4E3F35ACB9EA5DE200939F381':
+    if m.hexdigest()=='70c3bcd4e3f35acb9ea5de200939f381':
         return True
     else:
         return False
